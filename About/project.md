@@ -9,7 +9,11 @@ permalink: About/project
 
 # Hopfild network with Mnist
   Paper. 
-  [Github](https://github.com/aslla77/aslla77/tree/master/About_Hopfield_Network). 
+  
+  [GitHub](https://github.com/aslla77/aslla77/tree/master/About_Hopfield_Network). 
 
-# Research Experience
+# Object tracking
+  this project was made object tracking to used opnecv
+
+  [GitHub](https://github.com/aslla77/aslla77/tree/master/tracking)
 <br/>
