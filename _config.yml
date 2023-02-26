@@ -23,8 +23,8 @@ navbar-links:
   Home: "https://aslla77.github.io"
   About: 
     - Carrer: "/About/career"
-    - Resaerch Interests: "aboutme"
-    - Project: "aboutme"
+#     - Resaerch Interests: "aboutme"
+    - Project: "/About/project"
 #     - publication: "aboutme"
 #   CV:
   Study:
