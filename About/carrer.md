@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Carrer
+title: CAREER
 permalink: About/career
 ---
 
