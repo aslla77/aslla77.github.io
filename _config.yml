@@ -22,7 +22,7 @@ author: Hyunwoo Lee
 navbar-links:
   Home: "https://aslla77.github.io"
   About: 
-    - Carrer: "/About/Carrer"
+    - Carrer: "/About/carrer"
     - Resaerch Interests: "aboutme"
     - Project: "aboutme"
 #     - publication: "aboutme"
