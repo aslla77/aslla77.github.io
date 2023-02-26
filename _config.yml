@@ -20,11 +20,20 @@ author: Hyunwoo Lee
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Home: "https://aslla77.github.io"
+  About: 
+    - Carrer: "aboutme"
+    - Resaerch Interests: "aboutme"
+    - Project: "aboutme"
+#     - publication: "aboutme"
+#   CV:
+  Study:
+    - Python: "aboutme"
+    - Julia: "aboutme"
+    - ML: "aboutme"
+    - flutter: "aboutme"
+    - etc: "aboutme"
+  GitHub: "https://github.com/aslla77"
 
 ################
 # --- Logo --- #
