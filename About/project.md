@@ -28,6 +28,5 @@ try to recognize digit with hopfield network.
 * [graduation thesis](/assets/project/12151761.pdf). 
   
 * [GitHub](https://github.com/aslla77/aslla77/tree/master/About_Hopfield_Network). 
----
 
 <br/>
