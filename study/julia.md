@@ -7,6 +7,6 @@ permalink: study/julia
 
 ### Julia
 learning basic julia. 
-* [GitHub](https://juliakorea.github.io/ko/latest/](https://github.com/aslla77/Practice-Julia)
+* [GitHub](https://github.com/aslla77/Practice-Julia)
 
 <br/>
