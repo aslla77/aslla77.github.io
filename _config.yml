@@ -28,9 +28,8 @@ navbar-links:
 #     - publication: "aboutme"
 #   CV:
   Study:
-    - Python: "/study/python"
+    - Python/ML : "/study/python"
     - Julia: "/study/julia"
-    - ML: "/study/ML"
     - flutter: "/study/flutter"
     - etc: "/study/etc"
   GitHub: "https://github.com/aslla77"
