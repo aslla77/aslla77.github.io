@@ -9,6 +9,7 @@ permalink: About/project
 # Project(in master's course)
 ## Dynamics of ranking
 
+---
 
 # Personal project (during undergraduate)
 
