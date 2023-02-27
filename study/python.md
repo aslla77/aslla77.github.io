@@ -1,5 +1,9 @@
 ---
 layout: page
-title: Python
+title: Python/ML
 permalink: study/python
 ---
+
+<br/>
+
+<br/>
