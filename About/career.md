@@ -9,14 +9,15 @@ permalink: About/career
 
 # Education
 
-### Inha University
+### INHA UNIVERSITY
 #### Incheon, Korea
 #### Mar.2015 - Aug.2023, Graduate
-#### B.S. Major: Physics
+#### B.S. Major: Physics 
+#### Advisor : [Prof. Hye-Jin Park](https://hjpark.me)
 
 
-### Inha University
-#### Incheon, Korea
+### INHA UNIVERSITY
+#### INHA UNIVERSITY, 100 Inha-ro, Michuhol-gu, Incheon 22212, KOREA
 
 
 <br/>
@@ -24,7 +25,7 @@ permalink: About/career
 # Research Experience
 
 ###  Statistical Physics of Eco-Evolutionary Dynamics (SPEED), Inha University
-#### ㆍResearcher, Aug.2022 - Aug.2023
+#### Researcher, Aug.2022 - Aug.2023
 #### Advisor: Prof. Hye-Jin Park
 
 <br/>
