@@ -8,7 +8,7 @@ permalink: About/career
 <br/>
 
 # Education
-
+<hr>
 ### INHA UNIVERSITY
 #### Incheon, Korea
 #### Mar.2015 - Aug.2023, Graduate
@@ -22,7 +22,7 @@ permalink: About/career
 <br/>
 
 # Research Experience
-
+<hr>
 ###  Statistical Physics of Eco-Evolutionary Dynamics (SPEED), Inha University
 #### Researcher, Aug.2022 - Aug.2023
 #### Advisor : Prof.[Hye-Jin Park](https://hjpark.me)
@@ -30,6 +30,7 @@ permalink: About/career
 <br/>
 
 # Skill And Techniques
+<hr>
 ### Software Language
 ####  Python,Julia
 
