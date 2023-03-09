@@ -15,8 +15,7 @@ test
 ## Contact
 
 ```
-Email: 12151761@inha.edu
-Email: aslla77@naver.com 
+Email: 12151761@inha.edu / aslla77@inha.edu / aslla77@naver.com 
 
 ```
 
