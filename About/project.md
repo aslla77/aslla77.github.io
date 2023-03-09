@@ -7,14 +7,16 @@ permalink: About/project
 
 <br/>
 
----
+<hr>
 
 # Project(in master's course)
 ## Dynamics of ranking
 
----
+<hr color='balck'>
 
 # Personal project (during undergraduate)
+
+<hr>
 
 ### 1.Object tracking
 this project was made object tracking to used opnecv. 
