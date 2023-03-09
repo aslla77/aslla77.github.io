@@ -7,12 +7,17 @@ permalink: About/project
 
 <br/>
 
-<hr>
+
 
 # Project(in master's course)
+
+<hr>
+
 ## Dynamics of ranking
 
-<hr color='balck'>
+<br/>
+
+<br/>
 
 # Personal project (during undergraduate)
 
