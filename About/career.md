@@ -13,9 +13,8 @@ permalink: About/career
 #### Incheon, Korea
 #### Mar.2015 - Aug.2023, Graduate
 #### B.S. Major: Physics 
-
-
-
+  
+  
 ### INHA UNIVERSITY
 #### INHA UNIVERSITY, 100 Inha-ro, Michuhol-gu, Incheon 22212, KOREA
 
