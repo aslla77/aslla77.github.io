@@ -17,7 +17,6 @@ permalink: About/project
 
 <br/>
 
-<br/>
 
 # Personal project (during undergraduate)
 
