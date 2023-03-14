@@ -31,7 +31,7 @@ this project was made object tracking to used opnecv.
 
 try to recognize digit with hopfield network. 
 
-* [graduation thesis](/assets/project/12151761.pdf) (Prohibit deployment). 
+* [graduation thesis](/assets/project/12151761.pdf) (I have the copyright, so don't distribute it). 
   
 * [GitHub](https://github.com/aslla77/aslla77/tree/master/About_Hopfield_Network). 
 
