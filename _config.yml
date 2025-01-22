@@ -21,8 +21,9 @@ author: Hyunwoo Lee
 
 navbar-links:
   Home: "https://aslla77.github.io"
-  CV: "HW_CV.pdf"
+ 
   About: 
+    -  CV: "HW_CV.pdf"
     - Career: "/About/career"
 #     - Resaerch Interests: "aboutme"
     - Project: "/About/project"
